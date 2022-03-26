@@ -5,7 +5,6 @@ import os
 import random
 
 import streamlit as st
-import pyperclip
 import yaml
 
 THIS_DIR = os.path.dirname(__file__)
@@ -88,5 +87,3 @@ if stop:
         f"Consegue acertar o autódromo? {mistake_emojis + tries_emojis}"
     )
     st.code(msg)
-    if st.button("Copiar"):
-        pyperclip.copy(msg)
