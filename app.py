@@ -36,7 +36,7 @@ with open(os.path.join(THIS_DIR, "data", "data.yml"), encoding="utf-8") as file:
 # Get all tracks and select one for the day.
 all_tracks = list(sorted(data.keys()))
 random.seed(int(datetime.datetime.today().date().strftime("%Y%m%d")))
-track = random.choice(all_tracks)
+track = random.choice([track for track in all_tracks if data[track]["tips"]])
 
 # Initialize session variables.
 if "n_trials" not in st.session_state:
@@ -52,11 +52,7 @@ tips = [st.empty() for _ in data[track]["tips"]]
 droplist = st.empty()
 
 # User input.
-guess = droplist.selectbox(
-    label="Que circuito é esse?",
-    options=[""] + all_tracks,
-    disabled=stop,
-)
+guess = droplist.selectbox("Que circuito é esse?", [""] + all_tracks)
 
 # If the user gor it wrong, record a mistake.
 if guess and guess != track:
@@ -88,7 +84,7 @@ if stop:
     st.caption(data[track]["location"])
 
     msg = (
-        "Já joguei circuit.ooo hoje, e tu? "
+        "Já joguei bit.ly/circuitooo hoje, e tu? "
         f"Consegue acertar o autódromo? {mistake_emojis + tries_emojis}"
     )
     st.write(msg)

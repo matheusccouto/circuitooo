@@ -10,9 +10,44 @@ Interlagos:
 Spa-Francorchamps:
   image: data/img/spa.png
   location: Stavelot, Bélgica
-  tips:
-    - Tip1
-    - Tip2
-    - Tip3
-    - Tip4
-    - Tip5
+  tips: null
+Sakhir:
+  tips: null
+Jeddah:
+  tips: null
+Albert Park:
+  tips: null
+Imola:
+  tips: null
+Miami:
+  tips: null
+Barcelona:
+  tips: null
+Monaco:
+  tips: null
+Baku:
+  tips: null
+Gilles Villeneuve:
+  tips: null
+Silverstone:
+  tips: null
+Redbull Ring:
+  tips: null
+Paul Ricard:
+  tips: null
+Hungaroring:
+  tips: null
+Zandvoort:
+  tips: null
+Monza:
+  tips: null
+Marina Bay:
+  tips: null
+Suzuka:
+  tips: null
+Circuit of the Americas:
+  tips: null
+Hermanos Rodríguez:
+  tips: null
+Yas Marina:
+  tips: null
