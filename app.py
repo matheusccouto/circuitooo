@@ -83,7 +83,7 @@ if stop:
     st.caption(data[track]["location"])
 
     msg = (
-        "Já joguei bit.ly/circuitooo hoje, e tu? "
-        f"Consegue acertar o autódromo? {mistake_emojis + tries_emojis}"
+        "Já joguei bit.ly/circuitooo hoje.\n"
+        f"E tu? Consegue acertar o autódromo? {mistake_emojis + tries_emojis}"
     )
     st.code(msg)
