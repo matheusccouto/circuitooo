@@ -87,6 +87,6 @@ if stop:
         "Já joguei bit.ly/circuitooo hoje, e tu? "
         f"Consegue acertar o autódromo? {mistake_emojis + tries_emojis}"
     )
-    st.write(msg)
+    st.code(msg)
     if st.button("Copiar"):
         pyperclip.copy(msg)
