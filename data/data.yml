@@ -10,7 +10,12 @@ Interlagos:
 Spa-Francorchamps:
   image: data/img/spa.png
   location: Stavelot, Bélgica
-  tips: null
+  tips: 
+    - Recebeu a sua primeira corrida em 1922.
+    - Fez parte do calendário da primeira temporada de Fórmula 1 em 1950.
+    - Sua curva mais famosa se chama Eau Rouge.
+    - É o circuito mais longo no calendário atual da Fórmula 1.
+    - É considerado um dos circuitos mais desafiadores do calendário atual da Fórmula 1.
 Sakhir:
   tips: null
 Jeddah:
