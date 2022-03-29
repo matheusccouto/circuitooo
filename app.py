@@ -3,6 +3,7 @@
 import datetime
 import os
 import random
+from zoneinfo import ZoneInfo
 
 import streamlit as st
 import yaml
@@ -12,6 +13,7 @@ FLAG = "\U0001F3C1"
 CROSS = "\u274C"
 BUG = "https://github.com/matheusccouto/circuitooo/issues/new"
 ABOUT = "Inspirado em estadi.ooo\n\nColabore em github.com/matheusccouto/circuitooo"
+TZ = ZoneInfo("America/Sao_Paulo")
 stop = False
 
 st.set_page_config(
@@ -34,7 +36,7 @@ with open(os.path.join(THIS_DIR, "data", "data.yml"), encoding="utf-8") as file:
 
 # Get all tracks and select one for the day.
 all_tracks = list(sorted(data.keys()))
-random.seed(int(datetime.datetime.today().date().strftime("%Y%m%d")))
+random.seed(int(datetime.datetime.now(tz=TZ).date().strftime("%Y%m%d")))
 track = random.choice([track for track in all_tracks if data[track]["tips"]])
 
 # Initialize session variables.
