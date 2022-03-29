@@ -26,7 +26,12 @@ Sakhir:
     - Este circuito tem 6 traçados diferentes.
 Jeddah:
   image: data/img/.png
-  tips: null
+  tips:
+    - É um circuito de rua.
+    - Sua primeira corrida foi em 2021.
+    - É o circuito com mais curvas no calendário atual da Fórmula 1.
+    - Tem a segunda maior velocidade média do calendário atual da Fórmula 1.
+    - É o segundo circuito mais longo do calendário atual da Fórmula 1.
 Albert Park:
   image: data/img/.png
   tips: null
