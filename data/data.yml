@@ -33,8 +33,13 @@ Jeddah:
     - Tem a segunda maior velocidade média do calendário atual da Fórmula 1.
     - É o segundo circuito mais longo do calendário atual da Fórmula 1.
 Albert Park:
-  image: data/img/.png
-  tips: null
+  image: data/img/melbourne.png
+  tips:
+    - É um circuito de rua.
+    - Faz parte do calendário da Fórmula 1 desde 1996.
+    - Esteve ausente dos calendários de 2020 e 2021 por causa da pandemia da Covid-19.
+    - Costumava receber a primeira corrida da temporada.
+    - Já recebeu mais de 300 mil espectadores em um final de semana.
 Imola:
   image: data/img/.png
   tips: null
