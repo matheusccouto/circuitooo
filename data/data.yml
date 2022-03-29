@@ -44,16 +44,34 @@ Albert Park:
     - Costumava receber a primeira corrida da temporada.
     - Já recebeu mais de 300 mil espectadores em um final de semana.
 Imola:
-  image: data/img/.png
-  tips: null
+  image: data/img/imola.png
+  location: Ímola, Itália
+  tips: 
+    - Foi inaugurado em 1953.
+    - Recebeu sua primeira corrida de Fórmula 1 em 1963.
+    - Sua curva mais famosa se chama Tamburello.
+    - Foi protagonista de um dos piores fins de semana da história da Fórmula 1, quando dois pilotos faleceram.
+    - O circuito tem sentido anti-horário.
 Miami:
   tips: null
-Barcelona:
-  image: data/img/.png
-  tips: null
+Catalunha:
+  image: data/img/barcelona.png
+  location: Montmeló, Espanha
+  tips:
+    - Este circuito é um dos poucos onde se realizam testes coletivos da Fórmula 1.
+    - Foi inaugurado em 1991.
+    - Também recebe corridas do mundial de Moto GP.
+    - Já foi ponto de partida e chegada de um evento de ciclismo de olimpíadas.
+    - Com longas retas e grande variedade de curvas, é considerado um circuito equilibrado.
 Monaco:
-  image: data/img/.png
-  tips: null
+  image: data/img/monaco.png
+  location: Monte Carlo, Mônaco
+  tips: 
+    - É um circuito de rua.
+    - Sua corrida inaugural foi em 1929.
+    - Tem a curva mais lenta da Fórmula 1.
+    - É um circuito com poucas oportunidades de ultrapassagem.
+    - Fez parte do calendário da primeira temporada de Fórmula 1 em 1950.
 Baku:
   image: data/img/.png
   tips: null
