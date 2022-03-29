@@ -90,10 +90,15 @@ Gilles Villeneuve:
     - Um de seus muros foi apelidado de Muro dos Campeões após 3 campeões do mundo baterem nele na mesma prova.
     - Foi renomeado em 1982 para homenagear um falecido piloto de Fórmula 1.
     - Em 2011 bateu o recorde de corrida mais longa da história da Fórmula 1.
-
 Silverstone:
   image: data/img/silverstone.png
-  tips: null
+  location: Silverstone, Reino Unido
+  tips:
+    - Funcionou como pista de decolagem durante a segunda guerra mundial.
+    - Fez parte do calendário da primeira temporada de Fórmula 1 em 1950.
+    - A primeira vitória da Ferrai na Fórmula 1 foi nesse circuito.
+    - Em 2021, recebeu a primeira corrida Sprint da história da Fórmula 1
+    - Recebeu mais de 350 mil espectadores em um final de semana da Fórmula 1.
 Redbull Ring:
   image: data/img/redbull.png
   tips: null
