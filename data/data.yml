@@ -18,7 +18,12 @@ Spa-Francorchamps:
     - É considerado um dos circuitos mais desafiadores do calendário atual da Fórmula 1.
 Sakhir:
   image: data/img/sakhir.png
-  tips: null
+  tips:
+    - Sua primeira corrida foi em 2004.
+    - Foi o primeiro circuito do Oriente Médio a entrar no calendário da Fórmula 1.
+    - Atualmente recebe corridas nortunas na Fórmula 1.
+    - Por causa de restrições locais, a celebração do pódio é feita com bebida não-alcoólica.
+    - Este circuito tem 6 traçados diferentes.
 Jeddah:
   image: data/img/.png
   tips: null
