@@ -18,14 +18,16 @@ Spa-Francorchamps:
     - É considerado um dos circuitos mais desafiadores do calendário atual da Fórmula 1.
 Sakhir:
   image: data/img/sakhir.png
+  location: Sakhir, Barém
   tips:
     - Sua primeira corrida foi em 2004.
     - Foi o primeiro circuito do Oriente Médio a entrar no calendário da Fórmula 1.
     - Atualmente recebe corridas nortunas na Fórmula 1.
     - Por causa de restrições locais, a celebração do pódio é feita com bebida não-alcoólica.
     - Este circuito tem 6 traçados diferentes.
-Jeddah:
+Corniche de Gidá:
   image: data/img/jeddah.png
+  location: Gida, Arábia Saudita
   tips:
     - É um circuito de rua.
     - Sua primeira corrida foi em 2021.
@@ -34,6 +36,7 @@ Jeddah:
     - É o segundo circuito mais longo do calendário atual da Fórmula 1.
 Albert Park:
   image: data/img/albert-park.png
+  location: Melbourne, Austrália
   tips:
     - É um circuito de rua.
     - Faz parte do calendário da Fórmula 1 desde 1996.
