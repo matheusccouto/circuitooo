@@ -46,7 +46,7 @@ Albert Park:
 Imola:
   image: data/img/imola.png
   location: Ímola, Itália
-  tips: 
+  tips:
     - Foi inaugurado em 1953.
     - Recebeu sua primeira corrida de Fórmula 1 em 1963.
     - Sua curva mais famosa se chama Tamburello.
@@ -66,48 +66,61 @@ Catalunha:
 Monaco:
   image: data/img/monaco.png
   location: Monte Carlo, Mônaco
-  tips: 
+  tips:
     - É um circuito de rua.
     - Sua corrida inaugural foi em 1929.
     - Tem a curva mais lenta da Fórmula 1.
     - É um circuito com poucas oportunidades de ultrapassagem.
     - Fez parte do calendário da primeira temporada de Fórmula 1 em 1950.
 Baku:
-  image: data/img/.png
-  tips: null
+  image: data/img/baku.png
+  location: Bacu, Azerbaijão
+  tips: 
+    - É um circuito de rua.
+    - É um dos traçados mais longos do calendário atual de Fórmula 1.
+    - Teve sua estreia em 2016.
+    - Foi projetado para ser o circuito de rua mais rápido da Fórmula 1.
+    - Foi projetado por Hermann Tilke.
 Gilles Villeneuve:
-  image: data/img/.png
-  tips: null
+  image: data/img/montreal.png
+  location: Monteral, Canadá
+  tips:
+    - É localizado dentro de um ilha artificial.
+    - Recebeu seu primeiro grande prêmio de Fórmula 1 em 1978.
+    - Um de seus muros foi apelidado de Muro dos Campeões após 3 campeões do mundo baterem nele na mesma prova.
+    - Foi renomeado em 1982 para homenagear um falecido piloto de Fórmula 1.
+    - Em 2011 bateu o recorde de corrida mais longa da história da Fórmula 1.
+
 Silverstone:
-  image: data/img/.png
+  image: data/img/silverstone.png
   tips: null
 Redbull Ring:
-  image: data/img/.png
+  image: data/img/redbull.png
   tips: null
 Paul Ricard:
-  image: data/img/.png
+  image: data/img/paul-ricard.png
   tips: null
 Hungaroring:
-  image: data/img/.png
+  image: null
   tips: null
 Zandvoort:
-  image: data/img/.png
+  image: data/img/zandvoort.png
   tips: null
 Monza:
-  image: data/img/.png
+  image: null
   tips: null
 Marina Bay:
-  image: data/img/.png
+  image: null
   tips: null
 Suzuka:
-  image: data/img/.png
+  image: null
   tips: null
 Circuit of the Americas:
-  image: data/img/.png
+  image: data/img/americas.png
   tips: null
 Hermanos Rodríguez:
-  image: data/img/.png
+  image: null
   tips: null
 Yas Marina:
-  image: data/img/.png
+  image: null
   tips: null
