@@ -25,7 +25,7 @@ Sakhir:
     - Atualmente recebe corridas nortunas na Fórmula 1.
     - Por causa de restrições locais, a celebração do pódio é feita com bebida não-alcoólica.
     - Este circuito tem 6 traçados diferentes.
-Corniche de Gidá:
+Jeddah Corniche:
   image: data/img/jeddah.png
   location: Gidá, Arábia Saudita
   tips:
@@ -117,13 +117,18 @@ Paul Ricard:
     - Suas áreas de escape são feitas de asfalto e tungstênio que ajuda a desacelerar o carro sem danifica-lo.
     - É famoso por ter uma reta muito longa chamada Mistral.
     - Por muitos anos foi utilizado como circuito de testes, por apresentar muitos traçados diferentes.
-
 Hungaroring:
   image: null
   tips: null
 Zandvoort:
   image: data/img/zandvoort.png
-  tips: null
+  location: Zandvoort, Países Baixos
+  tips:
+    - Foi inaugurado em 1948.
+    - Recebeu o seu primeiro grande prêmio de Fórmula 1 em 1952.
+    - Ficou ausente da Fórmula 1 por 35 anos e retornou em 2021.
+    - Fica localizado entre dunas de areias e próximo ao mar.
+    - A pista fez uso de rotas de comunicação construídas pelo exército alemão durante a segunda guerra mundial.
 Monza:
   image: null
   tips: null
@@ -135,7 +140,13 @@ Suzuka:
   tips: null
 Circuit of the Americas:
   image: data/img/americas.png
-  tips: null
+  location: Austin, Estados Unidos
+  tips:
+    - Recebeu o seu primeiro grande prêmio de Fórmula 1 em 2012.
+    - Foi inaugurado em 2010.
+    - Foi especificamente construído para a Fórmula 1.
+    - O circuito tem sentido anti-horário.
+    - Tem uma torre de observação de 77 metros.
 Hermanos Rodríguez:
   image: null
   tips: null
