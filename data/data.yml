@@ -101,10 +101,23 @@ Silverstone:
     - Recebeu mais de 350 mil espectadores em um final de semana da Fórmula 1.
 Redbull Ring:
   image: data/img/redbull.png
-  tips: null
+  location: Spielberg, Áustria
+  tips:
+    - Recebeu o seu primeiro grande prêmio de Fórmula 1 em 1970.
+    - O circuito foi reativado em 2011, após 7 anos abandonado.
+    - Foi nesse circuito que Cléber Machado narrou "hoje não, hoje não, hoje sim".
+    - Também receve corridas de Moto GP.
+    - Atualmente é propriedade de uma empresa de bebidas enérgiticas.
 Paul Ricard:
   image: data/img/paul-ricard.png
-  tips: null
+  location: Le Castellet, França
+  tips:
+    - Foi construído em 1969 com ajuda financeira de um magnata que deu nome ao circuito.
+    - Recebeu o seu primeiro grande prêmio de Fórmula 1 em 1971.
+    - Suas áreas de escape são feitas de asfalto e tungstênio que ajuda a desacelerar o carro sem danifica-lo.
+    - É famoso por ter uma reta muito longa chamada Mistral.
+    - Por muitos anos foi utilizado como circuito de testes, por apresentar muitos traçados diferentes.
+
 Hungaroring:
   image: null
   tips: null
