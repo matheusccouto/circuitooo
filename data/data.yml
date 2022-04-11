@@ -130,8 +130,14 @@ Zandvoort:
     - Fica localizado entre dunas de areias e próximo ao mar.
     - A pista fez uso de rotas de comunicação construídas pelo exército alemão durante a segunda guerra mundial.
 Monza:
-  image: null
-  tips: null
+  image: data/img/monza.png
+  location: Monza, Itália
+  tips:
+    - Apenas em 1980 esse circuito ficou de fora do calendário de Fórmula 1.
+    - Fez parte do calendário da primeira temporada de Fórmula 1 em 1950.
+    - É o traçado mais veloz da Europa.
+    - Quando foi construído, em 1922, era apenas o terceiro circuito permanente do mundo.
+    - É a corrida mais curta do calendário atual da Fórmula 1.
 Marina Bay:
   image: null
   tips: null
